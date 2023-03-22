@@ -1,0 +1,40 @@
+.container {
+  align-items: center;
+  margin: 10px auto;
+  max-width: 1080px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+  align-items: center;
+  margin: 10px auto;
+  border: 5px black solid;
+  border-radius: 25px;
+}
+
+.content {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+  align-items: center;
+  margin: 10px auto;
+  border: 5px black solid;
+  border-radius: 25px;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+  align-items: center;
+  margin: 10px auto;
+  border: 5px black solid;
+  border-radius: 25px;
+}
+
+.text {
+  text-align: center;
+  font-size: 14px;
+}
